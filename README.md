@@ -31,7 +31,7 @@ I am a **Computer Science & Engineering Student** dedicated to building function
 ### 📈 Advanced Developer Metrics & Analytics
 
 <p align="center">
-  <!-- Elite Golden Wing Streak Counter inspired by image_d14fa5.png -->
+  <!-- Elite Golden Wing Streak Counter -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="85%"/>
 </p>
 
@@ -49,13 +49,12 @@ I am a **Computer Science & Engineering Student** dedicated to building function
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <!-- Wave Contribution Graph inspired by image_d14c44.png -->
-      <h3>📊 Contribution Velocity Trend</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Mariya's Contribution Graph" width="95%"/>
+      <!-- Weekly Contribution Activity Graph -->
+      <h3>📊 Weekly Contribution Velocity (Last 7 Days)</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" alt="Mariya's Weekly Activity Graph" width="95%"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🌐 Connect & Network
@@ -65,5 +64,5 @@ Let's collaborate or talk code! You can reach me across my verified endpoints:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariyabenny-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariya-benny-a67303347)
 
-  <i>Show some ❤️ by starring my repositories!</i>
-</p>
+     <i>Show some ❤️ by starring my repositories!</i>
+    </p>
