@@ -29,7 +29,7 @@ I am a **Computer Science & Engineering Student** dedicated to building function
 ### 📈  Metrics & Analytics
 
 <p align="center">
-  <!-- Advanced Golden Wing Streak Tracking -->
+  <!-- Premium Streak Tracker -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="85%"/>
 </p>
 
@@ -47,9 +47,9 @@ I am a **Computer Science & Engineering Student** dedicated to building function
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <!-- Continuous 3D Architecture Matrix Grid (Tracks accurately since March 5th) -->
-      <h3>📊 Cumulative Matrix Grid</h3>
-      <img src="https://opencast.vercel.app/mariyabenny-git/cube?theme=tokyonight" alt="Mariya's Contribution Grid" width="95%" />
+      <!-- Stable Linear Continuous Performance Graph (No Rate Limits) -->
+      <h3>📊 Cumulative Performance Timeline</h3>
+      <img src="https://activity-graph.allthebadges.io/graph?username=mariyabenny-git&theme=tokyonight&hide_border=true&area=true" alt="Mariya's Continuous Timeline" width="95%"/>
     </td>
   </tr>
 </table>
