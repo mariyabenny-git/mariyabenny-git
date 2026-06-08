@@ -24,29 +24,21 @@ I am a passionate **Computer Science & Engineering Student** dedicated to buildi
 
 ---
 
-### 📈 GitHub Analytics & Performance
-
-Here is a live look at my coding metrics, language distributions, and contribution consistency:
+### 📈 GitHub Analytics & Achievements
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mariyabenny-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mariya's GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="100%"/>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=mariyabenny-git&theme=tokyonight&no-bg=true&margin-w=15" alt="Mariya's Trophies" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariyabenny-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages Graph" width="80%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="80%"/>
     </td>
   </tr>
 </table>
-
----
-
 ### 🌐 Connect With Me
 
 Let's collaborate or talk tech! You can find me across these professional platforms:
