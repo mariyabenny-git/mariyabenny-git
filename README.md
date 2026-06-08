@@ -49,12 +49,13 @@ I am a **Computer Science & Engineering Student** dedicated to building function
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <!-- Weekly Contribution Activity Graph -->
-      <h3>📊 Weekly Contribution Velocity (Last 7 Days)</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" alt="Mariya's Weekly Activity Graph" width="95%"/>
+      <!-- Lifetime Contribution Graph (Day 1 to Present) -->
+      <h3>📊 Cumulative Coding History (Lifetime Performance)</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&bg_color=1a1b26&hide_border=true&custom_title=Lifetime%20Development%20History" alt="Mariya's Lifetime Activity Graph" width="95%"/>
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🌐 Connect & Network
