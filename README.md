@@ -3,7 +3,7 @@
 # ⚡ Welcome to My GitHub Ecosystem! 🚀
 
 ### 👩‍💻 About Me
-I am a **Computer Science & Engineering Student** dedicated to building functional, clean, and high-performance full-stack web applications. I turn complex logic into smooth, user-centric web platforms through continuous, self-driven development.
+I am a **Computer Science & Engineering Student** dedicated to building functional, clean, and high-performance full-stack web applications. I turn complex logic into smooth, user-centric web platform.
 
 - 🎓 Currently pursuing my **Bachelor of Engineering (BE) in Computer Science**
 - 🛠️ Actively architecting full-stack web applications and exploring modern software engineering
@@ -47,9 +47,9 @@ I am a **Computer Science & Engineering Student** dedicated to building function
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <!-- Stable Linear Continuous Performance Graph (No Rate Limits) -->
+      <!-- Stable Linear Continuous Performance Graph -->
       <h3>📊 Cumulative Performance Timeline</h3>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Continuous Timeline" width="95%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&hide_border=true&area=true" alt="Mariya's Continuous Timeline" width="95%"/>
     </td>
   </tr>
 </table>
