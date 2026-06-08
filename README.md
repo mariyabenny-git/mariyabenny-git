@@ -49,7 +49,7 @@ I am a **Computer Science & Engineering Student** dedicated to building function
       <br/>
       <!-- Stable Linear Continuous Performance Graph (No Rate Limits) -->
       <h3>📊 Cumulative Performance Timeline</h3>
-      <img src="https://activity-graph.allthebadges.io/graph?username=mariyabenny-git&theme=tokyonight&hide_border=true&area=true" alt="Mariya's Continuous Timeline" width="95%"/>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Continuous Timeline" width="95%"/>
     </td>
   </tr>
 </table>
