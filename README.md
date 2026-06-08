@@ -26,7 +26,7 @@ I am a **Computer Science & Engineering Student** dedicated to building function
 
 ---
 
-### 📈 Advanced Developer Metrics & Analytics
+### 📈  Metrics & Analytics
 
 <p align="center">
   <!-- Elite Golden Wing Streak Counter -->
@@ -44,12 +44,12 @@ I am a **Computer Science & Engineering Student** dedicated to building function
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mariyabenny-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages Graph" width="100%"/>
     </td>
   </tr>
-  <tr>
+ <tr>
     <td colspan="2" align="center">
       <br/>
-      <!-- Lifetime Contribution Graph (Day 1 to Present) -->
-      <h3>📊 Cumulative Coding History (Lifetime Performance)</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&bg_color=1a1b26&hide_border=true&custom_title=Lifetime%20Development%20History" alt="Mariya's Lifetime Activity Graph" width="95%"/>
+      <!-- Full Continuous Timeline Graph -->
+      <h3>📊 Contribution Timeline (Since March 5th)</h3>
+      <img src="https://github-readme-stats.shion.dev/api/snaps?username=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Full Timeline" width="95%" />
     </td>
   </tr>
 </table>
