@@ -29,33 +29,32 @@ I am a **Computer Science & Engineering Student** dedicated to building function
 ### 📈  Metrics & Analytics
 
 <p align="center">
-  <!-- Elite Golden Wing Streak Counter -->
+  <!-- Advanced Golden Wing Streak Tracking -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="85%"/>
 </p>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <!-- Live Metrics Card -->
+      <!-- Core Repository Stats Engine -->
       <img src="https://github-readme-stats.shion.dev/api?username=mariyabenny-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mariya's GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <!-- Language Distribution Breakdown -->
+      <!-- Language Percentage Breakdown -->
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mariyabenny-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages Graph" width="100%"/>
     </td>
   </tr>
- <tr>
+  <tr>
     <td colspan="2" align="center">
       <br/>
-      <!-- Full Continuous Timeline Graph -->
-      <h3>📊 Contribution Timeline (Since March 5th)</h3>
-      <img src="https://github-readme-stats.shion.dev/api/snaps?username=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Full Timeline" width="95%" />
+      <!-- Continuous 3D Architecture Matrix Grid (Tracks accurately since March 5th) -->
+      <h3>📊 Cumulative Matrix Grid</h3>
+      <img src="https://opencast.vercel.app/mariyabenny-git/cube?theme=tokyonight" alt="Mariya's Contribution Grid" width="95%" />
     </td>
   </tr>
 </table>
 
 ---
-
 ### 🌐 Connect & Network
 
 Let's collaborate or talk code! You can reach me across my verified endpoints:
