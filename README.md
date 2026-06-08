@@ -65,5 +65,4 @@ Let's collaborate or talk code! You can reach me across my verified endpoints:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariyabenny-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariya-benny-a67303347)
 
-     <i>Show some ❤️ by starring my repositories!</i>
-    </p>
+</p>
