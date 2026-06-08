@@ -24,24 +24,32 @@ I am a passionate **Computer Science & Engineering Student** dedicated to buildi
 
 ---
 
-### 📈 GitHub Analytics & Achievements
+### 📈 GitHub Analytics & Performance
+
+Here is a live look at my coding metrics, language distributions, and contribution consistency:
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=mariyabenny-git&theme=tokyonight&no-bg=true&margin-w=15" alt="Mariya's Trophies" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=mariyabenny-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mariya's GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td colspan="2" align="center">
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="80%"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mariyabenny-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages Graph" width="80%"/>
     </td>
   </tr>
 </table>
+
+---
+
 ### 🌐 Connect With Me
 
 Let's collaborate or talk tech! You can find me across these professional platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariya-benny-a67303347)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariyabenny-git)
