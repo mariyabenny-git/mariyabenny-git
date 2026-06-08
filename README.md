@@ -3,7 +3,7 @@
 # ⚡ Welcome to My GitHub Ecosystem! 🚀
 
 ### 👩‍💻 About Me
-I am a **Computer Science & Engineering Student** dedicated to building functional, clean, and high-performance full-stack web applications. I turn complex logic into smooth, user-centric web platform.
+I am a **Computer Science & Engineering Student** dedicated to building clean, functional, high-performance full-stack web applications. I turn complex logic into a smooth, user-centric web platform.
 
 - 🎓 Currently pursuing my **Bachelor of Engineering (BE) in Computer Science**
 - 🛠️ Actively architecting full-stack web applications and exploring modern software engineering
