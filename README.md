@@ -56,6 +56,3 @@ Let's collaborate or talk code! You can reach me across my verified endpoints:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariya-benny-a67303347)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariyabenny-git&label=PROFILE+VIEWS&color=007acc&style=flat-square" alt="Profile Views" />
-</p>
