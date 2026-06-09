@@ -25,10 +25,6 @@ I am a **Computer Science & Engineering Student** dedicated to building clean, f
 
 ### 📈 Metrics & Analytics (Public & Private)
 
-<p align="center">
-  <!-- Premium Streak Tracker (Private Commits Enabled) -->
-  <img src="https://komarev.com/ghpvc/?username=mariyabenny-git&label=PROFILE+VIEWS&color=007acc&style=flat-square&disable_user_view=true" alt="Profile Views" />
-</p>
 
 <table>
   <tr>
