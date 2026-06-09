@@ -27,7 +27,7 @@ I am a **Computer Science & Engineering Student** dedicated to building clean, f
 
 <p align="center">
   <!-- Premium Streak Tracker (Private Commits Enabled) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true&count_private=true" alt="Mariya's Coding Streak" width="85%"/>
+  <img src="https://komarev.com/ghpvc/?username=mariyabenny-git&label=PROFILE+VIEWS&color=007acc&style=flat-square&disable_user_view=true" alt="Profile Views" />
 </p>
 
 <table>
