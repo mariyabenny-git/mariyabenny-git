@@ -1,5 +1,3 @@
-
-
 # ⚡ Welcome to My GitHub Ecosystem! 🚀
 
 ### 👩‍💻 About Me
@@ -7,7 +5,6 @@ I am a **Computer Science & Engineering Student** dedicated to building clean, f
 
 - 🎓 Currently pursuing my **Bachelor of Engineering (BE) in Computer Science**
 - 🛠️ Actively architecting full-stack web applications and exploring modern software engineering
-- 🚀 **Fun Fact:** Transitioned seamlessly from a Biology focus into the world of tech and programming!
 
 ---
 
@@ -26,17 +23,17 @@ I am a **Computer Science & Engineering Student** dedicated to building clean, f
 
 ---
 
-### 📈  Metrics & Analytics
+### 📈 Metrics & Analytics (Public & Private)
 
 <p align="center">
-  <!-- Premium Streak Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true" alt="Mariya's Coding Streak" width="85%"/>
+  <!-- Premium Streak Tracker (Private Commits Enabled) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyabenny-git&theme=tokyonight&hide_border=true&count_private=true" alt="Mariya's Coding Streak" width="85%"/>
 </p>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <!-- Core Repository Stats Engine -->
+      <!-- Core Repository Stats Engine (Private Commits Counted) -->
       <img src="https://github-readme-stats.shion.dev/api?username=mariyabenny-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mariya's GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center">
@@ -47,9 +44,9 @@ I am a **Computer Science & Engineering Student** dedicated to building clean, f
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <!-- Stable Linear Continuous Performance Graph -->
+      <!-- Stable Linear Continuous Performance Graph (Private Commits Combined) -->
       <h3>📊 Cumulative Performance Timeline</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&hide_border=true&area=true" alt="Mariya's Continuous Timeline" width="95%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyabenny-git&theme=tokyonight&hide_border=true&area=true&combine_private=true" alt="Mariya's Continuous Timeline" width="95%"/>
     </td>
   </tr>
 </table>
@@ -62,7 +59,6 @@ Let's collaborate or talk code! You can reach me across my verified endpoints:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariyabenny-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariya-benny-a67303347)
 
-</p>
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariyabenny-git&label=PROFILE+VIEWS&color=007acc&style=flat-square" alt="Profile Views" />
